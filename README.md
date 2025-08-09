@@ -2,8 +2,14 @@ i know the name says 2024, but ive updated it to where it has basic bleed featur
 
 
 prefix — View current server prefix
+
+
 prefix set <symbol> — Change server prefix
+
+
 prefix self <symbol> — Set your own global prefix
+
+
 setup — Auto-create moderation channels/roles
 setupmute — Create mute roles
 bind staff @role — Set staff role for moderation
